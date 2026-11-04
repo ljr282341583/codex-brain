@@ -6,7 +6,7 @@
 - 项目 ID：codex-brain
 - 本机项目根：`G:\ai\codex projects\projects\01_软件开发\codex-brain`
 - 本机笔记根：本项目的 `outputs/项目/`
-- 独立 GitHub 目标：`ljr282341583/codex-brain`，私有
+- 独立 GitHub 目标：`ljr282341583/codex-brain`，公开（2026-11-05 用户明确要求从私有转为公开）
 - 建档日期：2026-11-05（Asia/Shanghai）
 
 ## 项目目标
