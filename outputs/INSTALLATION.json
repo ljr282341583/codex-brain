@@ -1,0 +1,22 @@
+{
+  "installed_at": "2026-11-05T03:08:50.599554+08:00",
+  "repository_root": "G:\\ai\\codex projects\\projects\\01_软件开发\\codex-brain",
+  "config": "C:\\Users\\Administrator\\.codex\\brain-config.json",
+  "skill_source": "G:\\ai\\codex projects\\projects\\01_软件开发\\codex-brain\\outputs\\skills\\codex-brain-handoff",
+  "runtime_skill": "C:\\Users\\Administrator\\.codex\\skills\\codex-brain-handoff",
+  "global_agents": "C:\\Users\\Administrator\\.codex\\AGENTS.md",
+  "backup_directory": "G:\\ai\\codex projects\\projects\\01_软件开发\\codex-brain\\work\\backups\\20261105-030850",
+  "original_global_sha256": "a93d000b624eab832bfbb148433ac51e4ec57a2a49470011c9a8f85f007d9d2f",
+  "installed_global_sha256": "166ea8bbce7b78e91493f1d97f35e0a48b2df151f32875b355bf7573e89a6dfe",
+  "protected_baseline": "G:\\ai\\codex projects\\projects\\01_软件开发\\codex-brain\\work\\protected-baseline.json",
+  "project_count": 1,
+  "handoff_policy_updated_at": "2026-11-05T03:18:22.848471+08:00",
+  "policy_backup_directory": "G:\\ai\\codex projects\\projects\\01_软件开发\\codex-brain\\work\\backups\\20261105-031728-handoff-policy",
+  "current_global_sha256": "ae8928f55e9c9f882153eba875a6d096601fd4601542b466980abd14c70b7cf3",
+  "global_outside_managed_block_sha256": "8b56f81ba32ac46f7222ca195e1cf9a2194a705c98b07850168935eb41262c34",
+  "handoff_policy": "on-handoff-private-github",
+  "first_handoff_started_at": "2026-11-05T03:25:29.179768+08:00",
+  "github_repository": "ljr282341583/codex-brain",
+  "remote_created_at_initial_install": false,
+  "remote_status_source": "Inspect Git origin and GitHub branch; no cached push success in this installation record."
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "owner": "codex",
+  "repository_root": "G:\\ai\\codex projects\\projects\\01_软件开发\\codex-brain",
+  "notes_root": "G:\\ai\\codex projects\\projects\\01_软件开发\\codex-brain\\outputs\\项目",
+  "templates_root": "G:\\ai\\codex projects\\projects\\01_软件开发\\codex-brain\\outputs\\templates",
+  "skill_source": "G:\\ai\\codex projects\\projects\\01_软件开发\\codex-brain\\outputs\\skills\\codex-brain-handoff",
+  "timezone": "Asia/Shanghai",
+  "git_policy": "on-handoff",
+  "project_bindings": [],
+  "protected_roots": [
+    "G:\\ai\\agent-brain",
+    "C:\\Users\\Administrator\\.dsh",
+    "C:\\Users\\Administrator\\.agents\\skills\\session-handoff"
+  ],
+  "archive_policy": {
+    "auto_create_on_development": true,
+    "ensure_on_handoff": true,
+    "checkpoint_confirmed_decisions": true
+  },
+  "handoff": {
+    "triggers": [
+      "收尾",
+      "Codex 大脑收尾"
+    ],
+    "github_owner": "ljr282341583",
+    "new_repository_visibility": "private",
+    "create_repository_if_missing": true,
+    "sync_project": true,
+    "sync_brain": true,
+    "brain_repository": "codex-brain",
+    "discussion_is_not_execution": true,
+    "save_progress_is_local_only": true
+  }
+}
